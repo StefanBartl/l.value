@@ -5,7 +5,7 @@
 # Who I Am and What I Do
 
 <p align="justify">
-Hi, I'm glad you're here! Based in Vienna, I mainly focus on Web Development & Cyber Security. I enjoy experimenting with languages like ZIG, Go, and sometimes Rust, and I also dive into "close to the hardware" topics.
+Hi, I'm glad you're here! Based in Vienna, I mainly focus on CLI-Tools, Neovim, Web Development & Cyber Security. I enjoy experimenting with languages like ZIG, Go, and sometimes Rust, and I also dive into "close to the hardware" topics.
 
 I look forward to any kind of exchange. Feel free to reach out and we can chat on Discord about the wonderful world of information technology!  
 
@@ -16,9 +16,6 @@ Access to technology should be a given for everyone, but unfortunately it is not
 <p>We must advocate for transparency and control over how our information is used!</p>
 
 [Netzpolitik.org](https://netzpolitik.org) – get organized!
-
-**New Neovim Plugin for Telescope:**  
-[telescope-selected-index](https://github.com/StefanBartl/telescope-selected-index) – A lightweight Telescope.nvim plugin to show the index of the currently selected entry in the results window. Designed for easy integration.
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=StefanBartl&theme=tokyonight&border_color=333&layout=donut&hide_title=true">
